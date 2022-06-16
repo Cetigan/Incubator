@@ -1,0 +1,1 @@
+const myArray = [["asdsa", 23], ["sdfs", 55]];
