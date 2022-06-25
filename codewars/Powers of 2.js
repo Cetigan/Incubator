@@ -7,4 +7,5 @@ for (let i = 1;i<=n;i++){
    
    
 
+
 powersOfTwo(0)
